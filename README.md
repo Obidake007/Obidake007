@@ -7,11 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer with over a year of exp
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="right" width="400" height="300" />
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 # Hi there, I'm Obidjan! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with over 2 years of experience in building web and AI applications. Here's a bit more about me:
@@ -40,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 2 years of ex
 <div align="center" style="text-align: center;">
   <h2>🛠️⚡Languages and Tools I use⚡🛠️</h2>
   <p>
-	  <img src="https://a11ybadges.com/badge?logo=vulkan">
+	<img src="https://a11ybadges.com/badge?logo=vulkan">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
