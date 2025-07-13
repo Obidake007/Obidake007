@@ -68,13 +68,16 @@ Welcome to my GitHub profile! I'm a passionate developer with over a year of exp
 
 
 ## 📊 GitHub Stats
-
+<p>
+	
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Obidake007&show_icons=true&theme=radical" alt="Obidake007's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obidake007&layout=compact&theme=radical" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obidake007&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=Obidake007&theme=radical" alt="GitHub Trophies" />
 </div>
+
+</p>
 
 ## 📬 Contact
 
@@ -84,12 +87,5 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ---
 
-Thank you for visiting my profile!&show_icons=true&theme=radical" alt="Obidake007's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obidake007&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obidake007&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Obidake007&theme=radical" alt="GitHub Trophies" />
-</div>
-
----
 
 Thank you for visiting my profile!
