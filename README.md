@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer with over a year of exp
 
 
 ## 🛠 Tech Stack
-
+<p>
+	
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -22,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over a year of exp
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+</p>
 
 ------
 
