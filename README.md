@@ -22,6 +22,10 @@ Welcome to my GitHub profile! I'm a passionate developer with over a year of exp
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+
+------
+
+
 ## 💼 Experience
 
 <h2></h2>
