@@ -7,12 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer with over a year of exp
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="right" width="400" height="300" />
 
 
-# Hi there, I'm Obidjan! 👋
-
-Welcome to my GitHub profile! I'm a passionate developer with over 2 years of experience in building web and AI applications. Here's a bit more about me:
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="right" width="400" height="300" />
-
 ## 🛠 Tech Stack
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
